@@ -1,4 +1,5 @@
-# Dolraj Neupane — Portfolio
+## Dolraj Neupane 
+# Portfolio
 
 Personal portfolio website for Dolraj Neupane, backend developer specializing in C++, C#, Python, JavaScript, PHP, and Laravel.
 
@@ -31,7 +32,7 @@ portfolio/
 
 ## Running Locally
 
-Open `index.html` directly in any modern browser — no server needed.
+Open `index.html` directly in any modern browser. No server needed.
 
 Or use a simple local server:
 
